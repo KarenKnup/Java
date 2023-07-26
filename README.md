@@ -24,5 +24,10 @@ Main (static) | static<br>
 Calculadora 3 | Calculadora com static<br>
 Main (this) | this<br>
 av | Armazenar no bando de dados MySQL os dados de Clientes, Quartos, Camas e Reservas<br>
-mysql-connector-j-8.1.0.zip | No IntelliJ: File->Project structure->Libraries->Adicionar o arquivo JAR dentro do zip
+mysql-connector-j-8.1.0.zip | No IntelliJ: File->Project structure->Libraries->Adicionar o arquivo JAR dentro do zip<br>
+Produto 2 | versão 2<br>
+Produto 3 | versão 3<br>
+AV1 | Incluir produto, Exibir produto e Exibir produtos em um array <br>
+
+
 
