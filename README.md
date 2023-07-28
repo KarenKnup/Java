@@ -11,6 +11,13 @@ Main (const) | Construtores <br>
 Main (value) | Tipos de valores<br>
 Main (end) | Endereçamento de memória<br>
 Main (math) | Matemática <br>
+Main (this) | this<br>
+Main (static) | static<br>
+Main (final) | final <br>
+Main (pack) | Pacotes e Encapsulação<br>
+Main (her) | Herança <br>
+Main (poly) | Polimorfismo <br>
+Main (methover) | Sobreposição de Método (Polimorfismo de tempo de compilação)<br>
 Calculadora | Primeira versão<br>
 Calculadora 2 | Segunda versão<br>
 Main (Mat) | Matemática em Java<br>
@@ -28,9 +35,7 @@ Main (vet) | Vetores em Java <br>
 Main (met) | Métodos (funções) em Java<br>
 Triangulo | Cálculo de área e perímetro de um triângulo usando coordenadas<br>
 Produto | Criar um vetor de produtos e exibir os dados desses produtos <br>
-Main (static) | static<br>
 Calculadora 3 | Calculadora com static<br>
-Main (this) | this<br>
 av | Armazenar no bando de dados MySQL os dados de Clientes, Quartos, Camas e Reservas<br>
 mysql-connector-j-8.1.0.zip | No IntelliJ: File->Project structure->Libraries->Adicionar o arquivo JAR dentro do zip<br>
 Produto 2 | versão 2<br>
