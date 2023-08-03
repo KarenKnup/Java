@@ -56,7 +56,8 @@ handle.java | Tratamento de exceções e Exceções múltiplas <br>
 threads.java | Threads <br>
 runtime.java | Runtime vs Checked Exceptions <br>
 array.java | Vetores e LinkedLists <br>
-hashmap.java | Hashmap <br>
+hashmap.java | Hashmap, Sets e LinkedHashSet <br>
+sorting.java | Sorting Lists <br>
 
 
 
