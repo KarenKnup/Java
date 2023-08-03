@@ -52,6 +52,12 @@ inner.c | Inner Classes <br>
 equals.c | Método equals() <br>
 enum.c | Tipo Enum <br>
 api.c | Java API <br>
+handle.java | Tratamento de exceções e Exceções múltiplas <br>
+threads.java | Threads <br>
+runtime.java | Runtime vs Checked Exceptions <br>
+array.java | Vetores e LinkedLists <br>
+hashmap.java | Hashmap <br>
+
 
 
 
