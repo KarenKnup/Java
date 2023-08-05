@@ -33,3 +33,10 @@ double p = Math.pow(2, 3); // 8.0
 There are a number of other methods available in the Math class, including:
 
 sqrt() for square root, sin() for sine, cos() for cosine, and others.
+
+What is the output of the following code? //15
+
+int f=1, i=2;
+while(++i<5)
+   f*=i;
+System.out.println(f);
