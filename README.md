@@ -58,6 +58,9 @@ runtime.java | Runtime vs Checked Exceptions <br>
 array.java | Vetores e LinkedLists <br>
 hashmap.java | Hashmap, Sets e LinkedHashSet <br>
 sorting.java | Sorting Lists <br>
+iterator.java | Iteradores <br>
+files.java | Arquivos <br>
+
 
 
 
